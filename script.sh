@@ -1,5 +1,25 @@
 #!/bin/bash
+# fonction de vérification
+function verifSyntax()
+{
+  
+}
+function miseDesCotes()
+{
 
+}
+function traitement()
+{
+
+}
+function extraction()
+{
+
+}
+function remplacement()
+{
+
+}
 # Vérifie que le premier argument est un répertoire existant
 if [ ! -d "$1" ]; then
   echo "Erreur : le premier argument doit être un répertoire existant"
